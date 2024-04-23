@@ -1,0 +1,28 @@
+**README**
+
+### Manipulador de Produtos
+
+Este é um pequeno programa em C# que implementa um manipulador de produtos. Ele permite adicionar, visualizar, atualizar e deletar produtos de uma lista.
+
+### Funcionalidades
+
+1. **Adicionar Produtos**: O método `AddProdutos` permite adicionar produtos à lista. Ele solicita o nome, descrição e quantidade total do produto ao usuário e os adiciona à lista de produtos.
+
+2. **Mostrar Lista de Produtos**: O método `mostrarLista` exibe todos os produtos cadastrados na lista. Ele percorre a lista de produtos e exibe o nome, descrição e quantidade total de cada produto.
+
+3. **Atualizar Estoque**: O método `atualiarEstoque` permite atualizar a quantidade em estoque de um produto específico na lista. Ele solicita ao usuário o número do produto a ser atualizado e a nova quantidade em estoque.
+
+4. **Deletar Produto**: O método `deletarProduto` permite excluir um produto específico da lista. Ele solicita ao usuário o número do produto a ser deletado e o remove da lista.
+
+### Utilização
+
+Para usar este programa, você precisa ter um ambiente de desenvolvimento C# configurado, como o Visual Studio ou o Visual Studio Code com a extensão C#. Você pode copiar e colar o código do manipulador de produtos em um arquivo C# e executá-lo.
+
+### Como Contribuir
+
+Se você deseja contribuir para este projeto, sinta-se à vontade para abrir uma issue ou enviar um pull request. Todas as contribuições são bem-vindas!
+
+### Autor
+
+Este programa foi escrito por Marco Antonio.
+

@@ -12,3 +12,4 @@ C:\Users\Luis Gustavo\Documents\PROGRAMAS-C#\Teste\obj\Debug\net8.0\refint\Teste
 C:\Users\Luis Gustavo\Documents\PROGRAMAS-C#\Teste\obj\Debug\net8.0\Teste.pdb
 C:\Users\Luis Gustavo\Documents\PROGRAMAS-C#\Teste\obj\Debug\net8.0\Teste.genruntimeconfig.cache
 C:\Users\Luis Gustavo\Documents\PROGRAMAS-C#\Teste\obj\Debug\net8.0\ref\Teste.dll
+C:\Users\Luis Gustavo\Documents\PROGRAMAS-C#\Teste\obj\Debug\net8.0\Teste.sourcelink.json

@@ -59,6 +59,7 @@ class ManipuladorProdutos{
 
     }
 
+
     public static void deletarProduto(List<Produtos> produtos){
         Console.WriteLine("Qual a numeração do produto a se deletar? ");
         int num = Convert.ToInt32(Console.ReadLine());
